@@ -1,8 +1,8 @@
-# GRUPO DE ESTUDOS - TURMA BACK END 11 {reprograma}
+# MATERIAL DE ESTUDOS - FRONT END
 
-## REVISÃO JAVASCRIPT 
+## REVISÃO 
 
-Esta pasta foi criada como material de apoio e de consulta para ser utilizada no primeiro encontro do grupo de estudos da turma 11 de back end da {reprograma}.
+Esta pasta foi criada como material de apoio e de consulta para ser utilizada no primeiro encontro do grupo de estudos.
 
 ## Organização da Revisão
 
